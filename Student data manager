@@ -1,0 +1,16 @@
+The Student Data Manager is basically a digital system that helps schools, colleges, and universities manage their institution-related information in a structured and organized way.
+Instead of keeping details on paper or random files, this program stores everything in a proper format, making it super easy to add, search, update, and save institutional data.
+
+The app supports three types of institutions:
+School
+College
+University
+Each entry stores details like:
+Institution name
+Location
+Ratings
+Number of streams/courses
+Availability of hostel, mess, and labs
+Number of students
+
+The idea is to make a simple management tool that works like a mini-database system for academic institutions.
