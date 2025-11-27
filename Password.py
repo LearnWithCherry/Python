@@ -62,7 +62,7 @@ def password():
     
     # save password!!!
     try:
-        with open("18_Projects\\Data.txt", "a") as f:
+        with open("Paste a file path or name in .txt mode", "a") as f:
 
             f.write(f"Name of the is Website: {w}\n")
             f.write(f"Password is: {p}\n")
@@ -72,7 +72,7 @@ def password():
 
 def shw_psw(): # show saved data
     try:
-        with open("18_Projects\\Data.txt", "r") as f:
+        with open("Paste a file path or name in .txt mode", "r") as f:
             print("Printing data....📑")
             content = f.read()
             print(content)
@@ -101,3 +101,4 @@ def options():# printing options
         else:
             print("Error❌❌")
 options()
+
