@@ -1,0 +1,1 @@
+write a code to find out there are how many words present in a string or file and print that number 
