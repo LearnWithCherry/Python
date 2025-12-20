@@ -1,0 +1,9 @@
+| Method      | Description             | Example                             |
+| ----------- | ----------------------- | ----------------------------------- |
+| `lower()`   | lowercase               | `"Hi".lower()` → `"hi"`             |
+| `upper()`   | uppercase               | `"hi".upper()` → `"HI"`             |
+| `strip()`   | remove spaces           | `"  hello ".strip()` → `"hello"`    |
+| `replace()` | replace part            | `"apple".replace("a", "A")`         |
+| `split()`   | split by space          | `"a b c".split()` → `['a','b','c']` |
+| `join()`    | join list into string   | `"-".join(["a","b"])` → `"a-b"`     |
+| `find()`    | find index of substring | `"hello".find("l")` → `2`           |
