@@ -1,0 +1,102 @@
+🚀 What is Flask?
+Flask is a micro web framework written in Python that allows you to build web applications quickly and easily.
+
+It’s called a micro framework because:
+
+It is lightweight
+
+It doesn’t force any specific tools or libraries
+
+You can add only what you need (plugins, database, etc.)
+
+Think of Flask as the skeleton of a website — you bring the muscles, brain, and style.
+
+🔧 Why Use Flask?
+✅ Simple and beginner-friendly
+
+✅ Great for API development
+
+✅ Used in backend of real-world apps
+
+✅ Python-based (so you already know how to code it!)
+
+✅ Huge community and libraries
+
+🛠️ How to Use Flask (Basic Steps)
+Let’s break it into a small checklist:
+
+✅ 1. Install Flask
+Inside your virtual environment:
+
+bash
+Copy code
+pip install flask
+✅ 2. Create a Flask App File (e.g. app.py)
+python
+Copy code
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+    return "Hello, Cherry! Flask is working!"
+
+if __name__ == "__main__":
+    app.run(debug=True)
+✅ 3. Run the Flask App
+In terminal or VS Code:
+
+bash
+Copy code
+python app.py
+✅ 4. Visit in Browser
+Open this in your browser:
+
+cpp
+Copy code
+http://127.0.0.1:5000/
+Boom 💥! You just served a website from your own code.
+
+🧪 Common Flask Use Cases
+Use Case	What Flask Does
+Personal portfolio	Host it as a website
+Contact forms	Handle input and send emails
+AI tools	Turn your model into a web app
+APIs	Send/receive data to/from other apps
+Admin panels	Build dashboards and tools
+
+🔮 What's Next After Basics?
+Once you're comfy with Flask:
+
+Use HTML templates with render_template()
+
+Add forms and GET/POST methods
+
+Connect to a database (like SQLite or MySQL)
+
+Build REST APIs
+
+Deploy it online using Render, Vercel, or Heroku
+
+💬 Real World Example?
+If you’ve seen websites like:
+
+To-do apps
+
+Chatbots
+
+AI tools where you input text and get a reply
+
+They often use Flask in the backend!
+
+🎯 Cherry's Goal Path in Flask:
+✅ Understand Flask basics
+
+🔜 Learn render_template() and serve HTML
+
+🔜 Handle forms & input
+
+🔜 Connect Python logic (like AI or ML models!)
+
+🔜 Deploy to web!
