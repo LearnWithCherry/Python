@@ -1,0 +1,18 @@
+Aryan wanted to become an AI master, but he was super lazy.
+He'd open Python, stare at the screen, and do… nothing.
+
+One night, his laptop glitched.
+A message popped up:
+
+Just write one line. I'll help you. — GPT
+
+He typed: print("Hello, future")
+
+The screen flashed:
+Well done. Do it again tomorrow.
+
+And he did.
+One line became one page.
+One project became a career.
+And the lazy boy? He built an AI that changed the world.
+
