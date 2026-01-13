@@ -1,0 +1,3 @@
+# ✅ STEP 2: Import Pandas in Your Python Script
+
+import pandas as pd  # we use 'pd' as shortcut

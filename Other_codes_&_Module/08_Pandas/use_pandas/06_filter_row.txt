@@ -1,0 +1,4 @@
+✅ STEP 6: Filter Rows (Conditions)
+
+df[df["Age"] > 23]
+df[df["City"] == "Mumbai"]

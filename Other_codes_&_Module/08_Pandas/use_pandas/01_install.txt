@@ -1,0 +1,5 @@
+✅ STEP 1: Install Pandas (if not already installed)
+In terminal or VS Code:
+
+
+pip install pandas

@@ -1,0 +1,3 @@
+✅ STEP 10: Save to CSV
+
+df.to_csv("new_data.csv", index=False)

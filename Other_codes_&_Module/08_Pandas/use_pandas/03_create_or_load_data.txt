@@ -1,0 +1,15 @@
+✅ STEP 3: Create or Load Data
+You can either:
+-----------------------------------------------------------
+1. Create a DataFrame manually:
+
+data = {
+    "Name": ["Alice", "Bob", "Charlie"],
+    "Age": [24, 27, 22],
+    "City": ["Delhi", "Mumbai", "Chennai"]
+}
+df = pd.DataFrame(data)
+--------------------------------------------------------------
+2. Load from a CSV:
+e
+df = pd.read_csv("data.csv")

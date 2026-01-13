@@ -1,0 +1,5 @@
+✅ STEP 9: Handle Missing Data
+
+df.isnull()           # Check for null values
+df.fillna(0)          # Fill nulls with 0
+df.dropna()           # Remove rows with nulls

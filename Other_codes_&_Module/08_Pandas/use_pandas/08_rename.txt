@@ -1,0 +1,3 @@
+✅ STEP 8: Rename Columns
+
+df.rename(columns={"Name": "Student Name"}, inplace=True)

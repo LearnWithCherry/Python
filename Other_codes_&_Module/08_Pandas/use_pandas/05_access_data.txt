@@ -1,0 +1,7 @@
+✅ STEP 5: Access Data
+
+df["Name"]           # Get one column (as Series)
+df[["Name", "City"]] # Get multiple columns (as DataFrame)
+
+df.loc[0]            # Get row by index
+df.iloc[1:3]         # Get rows by position

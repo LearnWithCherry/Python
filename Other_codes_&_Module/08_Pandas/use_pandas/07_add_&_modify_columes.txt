@@ -1,0 +1,4 @@
+✅ STEP 7: Add / Modify Columns
+
+df["Score"] = [80, 95, 70]         # Add new column
+df["Age"] = df["Age"] + 1          # Update values

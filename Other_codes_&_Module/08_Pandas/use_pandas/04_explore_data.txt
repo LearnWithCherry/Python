@@ -1,0 +1,7 @@
+✅ STEP 4: Explore the Data
+
+df.head()      # First 5 rows
+df.tail()      # Last 5 rows
+df.shape       # (rows, columns)
+df.columns     # List of column names
+df.info()      # Info about data types, nulls, etc.
