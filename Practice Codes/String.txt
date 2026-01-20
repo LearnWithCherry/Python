@@ -1,0 +1,22 @@
+String: are sequence of characters using the synatx of either 
+quotes or double quotes
+
+'hello'
+"hello"
+"I don't do that "
+
+indexing:
+
+characters:      H e l l o 
+index:           0 1 2 3 4 
+reveseindexing:  0-4-3-2-1 
+
+slicing : it allow you to grab a subsection of multiple characters
+          of the string 
+
+          this has to following synatx: 
+          [Start:stop:step]
+
+          Start: numerical index for the slice Start
+          stop:  index you will go upto (but not include)
+          step:  Size of jump
